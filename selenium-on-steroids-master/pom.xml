@@ -20,7 +20,7 @@
 		<selenium.java.version>2.29.0</selenium.java.version>
 		<selenium.htmlunit.version>2.29.0</selenium.htmlunit.version>
 		<junit.version>4.10</junit.version>
-		<apache.poi.version>3.9</apache.poi.version>
+		<apache.poi.version>4.1.1</apache.poi.version>
 		<apache.poi.ooxml.version>3.9</apache.poi.ooxml.version>
 		<apache.poi.ooxml.schemas.version>3.9</apache.poi.ooxml.schemas.version>
 		<log4j.version>1.2.17</log4j.version>
